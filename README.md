@@ -20,6 +20,4 @@
 - 인순용 - main content-3, notice 작업
 - 김지연 - footer, 팝업 창 작업
 
--공동작업 - gallery
-
 # 4. 최종 완성 사이트 링크(vecel 배포)
