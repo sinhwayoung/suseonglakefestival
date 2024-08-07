@@ -6,7 +6,7 @@
 
 # 2.1 기존 사이트 링크
 
-- 링크
+- [2023 suseonglake_festival](http://www.ssfestival.net/)
 - 원래 사이트 캡처이미지 asset 폴더 내에 보관
 
 # 2. 사용라이브러리 / 기술스택
@@ -21,3 +21,5 @@
 - 김지연 - footer, 팝업 창 작업
 
 # 4. 최종 완성 사이트 링크(vecel 배포)
+
+- [2024 redesign](https://suseonglakefestival-shy.vercel.app/)
